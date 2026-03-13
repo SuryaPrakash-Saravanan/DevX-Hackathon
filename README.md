@@ -80,3 +80,6 @@ Hackathon Project – AI Logistics Optimization
 ## 📌 Soure Code 
 
 
+## 🖇️ Result 
+
+The project successfully demonstrates an AI-based logistics route optimization system that identifies the most efficient delivery routes by considering distance, traffic conditions, and vehicle capacity. Using algorithms like Dijkstra’s Algorithm, the system reduces travel time, fuel consumption, and operational costs while improving delivery efficiency through route visualization and smart vehicle routing.
