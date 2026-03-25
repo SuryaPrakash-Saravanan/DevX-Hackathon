@@ -42,11 +42,20 @@ RouteAI solves this by providing an AI-driven logistics optimization system.
 
 ## 🛠 Technologies Used
 
-- Python
-- Streamlit
-- Folium
-- NetworkX
-- Scikit-Learn
+-HTML5 for app structure
+-CSS3 for styling, animations, themes, and responsive UI
+-Vanilla JavaScript for frontend logic and interactivity
+-Node.js for the backend server
+-SQLite for database storage
+-Leaflet.js for map rendering
+-OpenStreetMap for map tiles and base map data
+-OSRM / OpenRouteService for route generation
+-Nominatim / geocoding services for place search and reverse geocoding
+-Browser Geolocation API for live location tracking
+-Web Speech API (SpeechSynthesis) for voice guidance
+-Device Orientation API for direction/heading-based vehicle rotation
+-REST API architecture for frontend-backend communication
+-JSON for request/response data exchange
 
 ---
 
