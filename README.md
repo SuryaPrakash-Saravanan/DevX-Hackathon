@@ -86,8 +86,6 @@ Hackathon Project – AI Logistics Optimization
 
 ---
 
-## 📌 Soure Code 
-
 
 ## 🖇️ Result 
 
